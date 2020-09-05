@@ -64,4 +64,4 @@ exclude: [
 analytics: 
 google_verification:
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
