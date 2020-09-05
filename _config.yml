@@ -64,4 +64,4 @@ exclude: [
 analytics: 
 google_verification:
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
